@@ -34,8 +34,11 @@ namespace SingletonDP
 
             Singleton firstS = Singleton.get_example;
             Singleton secondS = Singleton.get_example;
+            Singleton thirdS = Singleton.get_example;
 
-
+            Console.WriteLine(firstS.word);
+            Console.WriteLine(secondS.word);
+            Console.WriteLine(thirdS.word);
 
         }
     }

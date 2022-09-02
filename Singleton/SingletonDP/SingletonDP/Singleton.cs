@@ -42,16 +42,11 @@ namespace SingletonDP
     class Singleton
     {
         private static Singleton _example = null;
+        public string word;
 
         private Singleton()
         {
-            Random random = new Random();
-            for (int i = 1; i <= 10; i++)
-            {
-                int sayi1 = random.Next(65, 91);
-                Console.Write((char)sayi1);
-            }
-            Console.WriteLine();
+           
         }
 
         public static Singleton get_example
@@ -61,6 +56,14 @@ namespace SingletonDP
                 if (_example == null)
                 {
                     _example = new Singleton();
+                    Random random = new Random();
+                    string CurrentWord = "";
+                    for (int i = 1; i <= 10; i++)
+                    {
+                        int sayi1 = random.Next(65, 91);
+                        CurrentWord = CurrentWord + ((char)sayi1);
+                    }
+                    _example.word = CurrentWord;
                 }
                 return _example;
             }
