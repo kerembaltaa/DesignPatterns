@@ -1,0 +1,16 @@
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\bin\Debug\net5.0\SingletonDP.exe
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\bin\Debug\net5.0\SingletonDP.deps.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\bin\Debug\net5.0\SingletonDP.runtimeconfig.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\bin\Debug\net5.0\SingletonDP.runtimeconfig.dev.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\bin\Debug\net5.0\SingletonDP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\bin\Debug\net5.0\ref\SingletonDP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\bin\Debug\net5.0\SingletonDP.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\obj\Debug\net5.0\SingletonDP.csproj.AssemblyReference.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\obj\Debug\net5.0\SingletonDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\obj\Debug\net5.0\SingletonDP.AssemblyInfoInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\obj\Debug\net5.0\SingletonDP.AssemblyInfo.cs
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\obj\Debug\net5.0\SingletonDP.csproj.CoreCompileInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\obj\Debug\net5.0\SingletonDP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\obj\Debug\net5.0\ref\SingletonDP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\obj\Debug\net5.0\SingletonDP.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Singleton\SingletonDP\SingletonDP\obj\Debug\net5.0\SingletonDP.genruntimeconfig.cache

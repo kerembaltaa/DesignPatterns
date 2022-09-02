@@ -1,0 +1,16 @@
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\bin\Debug\net5.0\FactoryDP.exe
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\bin\Debug\net5.0\FactoryDP.deps.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\bin\Debug\net5.0\FactoryDP.runtimeconfig.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\bin\Debug\net5.0\FactoryDP.runtimeconfig.dev.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\bin\Debug\net5.0\FactoryDP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\bin\Debug\net5.0\ref\FactoryDP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\bin\Debug\net5.0\FactoryDP.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\obj\Debug\net5.0\FactoryDP.csproj.AssemblyReference.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\obj\Debug\net5.0\FactoryDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\obj\Debug\net5.0\FactoryDP.AssemblyInfoInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\obj\Debug\net5.0\FactoryDP.AssemblyInfo.cs
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\obj\Debug\net5.0\FactoryDP.csproj.CoreCompileInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\obj\Debug\net5.0\FactoryDP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\obj\Debug\net5.0\ref\FactoryDP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\obj\Debug\net5.0\FactoryDP.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP\obj\Debug\net5.0\FactoryDP.genruntimeconfig.cache
