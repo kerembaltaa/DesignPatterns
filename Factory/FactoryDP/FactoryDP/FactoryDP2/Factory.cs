@@ -8,25 +8,25 @@ namespace FactoryDP2
 {
     class Factory
     {
-        public static Interface1 getProduct(string name, string brand, int price, int amount)
+        public static Interface1 getShip(string name, string company, int velocity, int max_weight)
         {
 
-            Interface1 ürün;
-            if ("Product1"==(name))
+            Interface1 _ship;
+            if ("ContainerShip"==(name))
             {
-                ürün = new Product1(name, brand, price, amount);
+                _ship = new ContainerShip(name, company, velocity, max_weight);
             }
-            else if ("Product2"==(name))
+            else if ("TransportationShip"==(name))
             {
-                ürün = new Product1(name, brand, price, amount);
+                _ship = new TransportationShip(name, company, velocity, max_weight);
             }
             else
             {
-                ürün = null;
+                _ship = null;
                 Console.WriteLine("Geçerli bir ürün değildir!");
             }
 
-            return ürün;
+            return _ship;
         }
     }
 }

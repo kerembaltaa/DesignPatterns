@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace FactoryDP2
 {
-    class Product2 : Interface1
+    class TransportationShip : Interface1
     {
         private string name;
-        private string brand;
-        private int price;
-        private int amount;
+        private string company;
+        private int velocity;
+        private int max_weight;
 
-        public Product2(string name, string brand, int price, int amount)
+        public TransportationShip(string name, string company, int velocity, int max_weight)
         {
             this.name = name;
-            this.brand = brand;
-            this.price = price;
-            this.amount = amount;
+            this.company = company;
+            this.velocity = velocity;
+            this.max_weight = max_weight;
         }
 
         public string getName()
@@ -26,32 +26,28 @@ namespace FactoryDP2
             return name;
         }
 
-        public string getBrand()
+        public string getCompany()
         {
-            return brand;
+            return company;
         }
 
 
-        public int getPrice()
+        public int getVelocity()
         {
-            return price;
+            return velocity;
         }
 
-        public int getAmount()
+        public int getMaxWeight()
         {
-            return amount;
+            return max_weight;
         }
 
 
         public override string ToString()
         {
-            return "Product2:" +
-                    "Name=" + name +
-                    ", Brand=" + brand +
-                    ", Price=" + price +
-                    ", Amount=" + amount
-                    ;
+            return "Name= " + name + ", Company= " + company + ", Velocity= "
+                + velocity + "km/h" + ", Max Weight=" + max_weight + "tons";
         }
-    
-}
+
+    }
 }

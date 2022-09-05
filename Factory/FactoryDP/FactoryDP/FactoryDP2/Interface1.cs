@@ -9,8 +9,8 @@ namespace FactoryDP2
     interface Interface1
     {
         string getName();
-        string getBrand();
-        int getPrice();
-        int getAmount();
+        string getCompany();
+        int getVelocity();
+        int getMaxWeight();
     }
 }
