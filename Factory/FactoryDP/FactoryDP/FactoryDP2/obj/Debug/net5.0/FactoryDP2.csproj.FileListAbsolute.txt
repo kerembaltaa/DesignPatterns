@@ -1,0 +1,16 @@
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\bin\Debug\net5.0\FactoryDP2.exe
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\bin\Debug\net5.0\FactoryDP2.deps.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\bin\Debug\net5.0\FactoryDP2.runtimeconfig.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\bin\Debug\net5.0\FactoryDP2.runtimeconfig.dev.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\bin\Debug\net5.0\FactoryDP2.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\bin\Debug\net5.0\ref\FactoryDP2.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\bin\Debug\net5.0\FactoryDP2.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\obj\Debug\net5.0\FactoryDP2.csproj.AssemblyReference.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\obj\Debug\net5.0\FactoryDP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\obj\Debug\net5.0\FactoryDP2.AssemblyInfoInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\obj\Debug\net5.0\FactoryDP2.AssemblyInfo.cs
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\obj\Debug\net5.0\FactoryDP2.csproj.CoreCompileInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\obj\Debug\net5.0\FactoryDP2.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\obj\Debug\net5.0\ref\FactoryDP2.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\obj\Debug\net5.0\FactoryDP2.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Factory\FactoryDP\FactoryDP\FactoryDP2\obj\Debug\net5.0\FactoryDP2.genruntimeconfig.cache
