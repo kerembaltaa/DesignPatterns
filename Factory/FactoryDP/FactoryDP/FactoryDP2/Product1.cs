@@ -46,7 +46,7 @@ namespace FactoryDP2
         public override string ToString()
         {
             return "Name= " + name + ", Company= " + company + ", Velocity= "
-                + velocity+"km/h"+", Max Weight="+ max_weight+"tons";
+                + velocity+"km/h"+", Max Weight= "+ max_weight+"tons";
         }
 
     }

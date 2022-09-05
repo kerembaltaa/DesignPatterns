@@ -23,7 +23,7 @@ namespace FactoryDP2
             else
             {
                 _ship = null;
-                Console.WriteLine("Geçerli bir ürün değildir!");
+                Console.WriteLine("Not found!");
             }
 
             return _ship;

@@ -11,10 +11,13 @@ namespace FactoryDP2
             Interface1 _ship2 = Factory.getShip("TransportationShip", "IDO", 180, 10);
 
             Console.WriteLine("Properties of ContainerShip: ");
-            Console.WriteLine(_ship1.ToString());
+            if (_ship1 !=null)
+                Console.WriteLine(_ship1.ToString());
+
 
             Console.WriteLine("Properties of TransportationShip: ");
-            Console.WriteLine(_ship2.ToString());
+            if (_ship2 != null)
+                Console.WriteLine(_ship2.ToString());
         }
     }
 }
