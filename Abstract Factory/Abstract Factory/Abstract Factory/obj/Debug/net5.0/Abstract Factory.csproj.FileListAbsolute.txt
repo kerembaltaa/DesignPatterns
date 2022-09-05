@@ -1,0 +1,16 @@
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net5.0\Abstract Factory.exe
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net5.0\Abstract Factory.deps.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net5.0\Abstract Factory.runtimeconfig.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net5.0\Abstract Factory.runtimeconfig.dev.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net5.0\Abstract Factory.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net5.0\ref\Abstract Factory.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net5.0\Abstract Factory.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net5.0\Abstract Factory.csproj.AssemblyReference.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net5.0\Abstract Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net5.0\Abstract Factory.AssemblyInfoInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net5.0\Abstract Factory.AssemblyInfo.cs
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net5.0\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net5.0\Abstract Factory.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net5.0\ref\Abstract Factory.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net5.0\Abstract Factory.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net5.0\Abstract Factory.genruntimeconfig.cache

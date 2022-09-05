@@ -1,0 +1,16 @@
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\bin\Debug\net5.0\Abstract Factory 2.exe
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\bin\Debug\net5.0\Abstract Factory 2.deps.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\bin\Debug\net5.0\Abstract Factory 2.runtimeconfig.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\bin\Debug\net5.0\Abstract Factory 2.runtimeconfig.dev.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\bin\Debug\net5.0\Abstract Factory 2.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\bin\Debug\net5.0\ref\Abstract Factory 2.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\bin\Debug\net5.0\Abstract Factory 2.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\obj\Debug\net5.0\Abstract Factory 2.csproj.AssemblyReference.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\obj\Debug\net5.0\Abstract Factory 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\obj\Debug\net5.0\Abstract Factory 2.AssemblyInfoInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\obj\Debug\net5.0\Abstract Factory 2.AssemblyInfo.cs
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\obj\Debug\net5.0\Abstract Factory 2.csproj.CoreCompileInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\obj\Debug\net5.0\Abstract Factory 2.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\obj\Debug\net5.0\ref\Abstract Factory 2.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\obj\Debug\net5.0\Abstract Factory 2.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Abstract Factory\Abstract Factory\Abstract Factory 2\obj\Debug\net5.0\Abstract Factory 2.genruntimeconfig.cache
