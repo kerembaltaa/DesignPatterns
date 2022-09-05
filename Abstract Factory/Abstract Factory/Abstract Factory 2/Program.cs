@@ -9,7 +9,7 @@ namespace Abstract_Factory_2
             IFootballFactory germany = new BundesLigaFactory();
             IFootballFactory spain = new LaLigaFactory();
             IFootballFactory italy = new SerieAFactory();
-            FootballWorld footballWorld = new FootballWorld(spain);
+            FootballWorld footballWorld = new FootballWorld(italy);
             Console.WriteLine(footballWorld.GetFootballTeamColor());
             Console.WriteLine(footballWorld.GetTopScorer());
             Console.ReadLine();
@@ -36,7 +36,7 @@ namespace Abstract_Factory_2
     {
         public ITeam CreateTeam()
         {
-            return new BorussiaDotmund();
+            return new BorussiaDortmund();
         }
 
         public IPlayer CreatePlayer()
@@ -71,7 +71,7 @@ namespace Abstract_Factory_2
         }
     }
 
-    public class BorussiaDotmund : ITeam
+    public class BorussiaDortmund : ITeam
     {
         public string GetTeamColor()
         {
