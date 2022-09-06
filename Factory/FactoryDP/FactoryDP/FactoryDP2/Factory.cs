@@ -8,10 +8,10 @@ namespace FactoryDP2
 {
     class Factory
     {
-        public static Interface1 getShip(string name, string company, int velocity, int max_weight)
+        public static ShipInterface getShip(string name, string company, int velocity, int max_weight)
         {
 
-            Interface1 _ship;
+            ShipInterface _ship;
             if ("ContainerShip"==(name))
             {
                 _ship = new ContainerShip(name, company, velocity, max_weight);

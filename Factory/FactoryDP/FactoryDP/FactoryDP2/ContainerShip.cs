@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace FactoryDP2
 {
-    class TransportationShip : Interface1
+    class ContainerShip : ShipInterface
     {
         private string name;
         private string company;
         private int velocity;
         private int max_weight;
 
-        public TransportationShip(string name, string company, int velocity, int max_weight)
+        public ContainerShip(string name, string company, int velocity, int max_weight)
         {
             this.name = name;
             this.company = company;
@@ -46,7 +46,7 @@ namespace FactoryDP2
         public override string ToString()
         {
             return "Name= " + name + ", Company= " + company + ", Velocity= "
-                + velocity + "km/h" + ", Max Weight= " + max_weight + "tons";
+                + velocity+"km/h"+", Max Weight= "+ max_weight+"tons";
         }
 
     }

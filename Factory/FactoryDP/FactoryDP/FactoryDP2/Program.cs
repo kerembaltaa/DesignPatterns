@@ -6,9 +6,9 @@ namespace FactoryDP2
     {
         static void Main(string[] args)
         {
-            Interface1 _ship1 = Factory.getShip("ContainerShip", "MSC", 50, 1000);
+            ShipInterface _ship1 = Factory.getShip("ContainerShip", "MSC", 50, 1000);
 
-            Interface1 _ship2 = Factory.getShip("TransportationShip", "IDO", 180, 10);
+            ShipInterface _ship2 = Factory.getShip("TransportationShip", "IDO", 180, 10);
 
             Console.WriteLine("Properties of ContainerShip: ");
             if (_ship1 !=null)

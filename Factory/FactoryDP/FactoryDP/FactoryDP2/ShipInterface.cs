@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FactoryDP2
 {
-    interface Interface1
+    interface ShipInterface
     {
         string getName();
         string getCompany();
