@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Abstract_Factory
 {
-    public class TransportationShip : IVehicle
+    public class Plane : IVehicle
     {
         public string info()
         {
-            return "IDO";
+            return "Turkish Airlines";
         }
     }
 }

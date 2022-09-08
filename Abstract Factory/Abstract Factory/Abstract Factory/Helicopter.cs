@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Abstract_Factory
 {
-    interface ShipInterface
+    public class Helicopter : IVehicle
     {
-        string getName();
-        string getCompany();
-        int getVelocity();
-        int getMaxWeight();
+        public string info()
+        {
+            return "Private Helicopters";
+        }
     }
 }

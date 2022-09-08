@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FactoryDP2
 {
-    class ContainerShip : ShipInterface
+    class ContainerShip : IShip
     {
         private string name;
         private string company;

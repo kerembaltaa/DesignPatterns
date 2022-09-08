@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Abstract_Factory
 {
-    public class TransportationShip : IVehicle
+    public interface IVehicle
     {
-        public string info()
-        {
-            return "IDO";
-        }
+        string info();
     }
 }
