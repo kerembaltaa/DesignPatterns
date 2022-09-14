@@ -8,28 +8,24 @@ namespace Composite_DP2
         static void Main(string[] args)
         {
              
-            CompositeSoldier generalCagatay = new CompositeSoldier("Joe", Rank.General);
+            CompositeSoldier generalJoe = new CompositeSoldier("Joe", Rank.General);
+
+            generalJoe.AddSoldier(new PrimitiveSoldier("Michael", Rank.Colonel));
+            
+            CompositeSoldier colonelFrank = new CompositeSoldier("Frank", Rank.Colonel);
+           
+            CompositeSoldier lieutenantColonelDonovan = new CompositeSoldier("Donovan", Rank.LieutenantColonel);
+   
+            colonelFrank.AddSoldier(new PrimitiveSoldier("Dave", Rank.LieutenantColonel));
+
+            colonelFrank.AddSoldier(lieutenantColonelDonovan);
 
 
-            generalCagatay.AddSoldier(new PrimitiveSoldier("Michael", Rank.Colonel));
-            generalCagatay.AddSoldier(new PrimitiveSoldier("Tobias", Rank.Colonel));
+            generalJoe.AddSoldier(colonelFrank);
 
+            lieutenantColonelDonovan.AddSoldier(new PrimitiveSoldier("Price", Rank.Captain));
 
-            CompositeSoldier colonelNevi = new CompositeSoldier("Frank", Rank.Colonel);
-            CompositeSoldier lieutenantColonelZing = new CompositeSoldier("Donovan", Rank.LieutenantColonel);
-
-
-            lieutenantColonelZing.AddSoldier(new PrimitiveSoldier("Price", Rank.Captain));
-            colonelNevi.AddSoldier(lieutenantColonelZing);
-            colonelNevi.AddSoldier(new PrimitiveSoldier("Dave", Rank.LieutenantColonel));
-
-            generalCagatay.AddSoldier(colonelNevi);
-
-
-            generalCagatay.AddSoldier(new PrimitiveSoldier("Kenny", Rank.Colonel));
-
-
-            generalCagatay.ExecuteOrder();
+            generalJoe.ExecuteOrder();
 
 
             Console.ReadLine();
@@ -40,9 +36,8 @@ namespace Composite_DP2
         General,
         Colonel,
         LieutenantColonel,
-        Major,
         Captain,
-        Lieutenant
+        PrivateSoldier
     }
     abstract class Soldier
     {
@@ -75,7 +70,6 @@ namespace Composite_DP2
             throw new NotImplementedException();
         }
 
-        // Bu fonksiyonun Leaf için anlamı yoktur.
         public override void RemoveSoldier(Soldier soldier)
         {
             throw new NotImplementedException();
