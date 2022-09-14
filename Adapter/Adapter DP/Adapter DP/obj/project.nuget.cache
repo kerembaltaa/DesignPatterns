@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "erDXmgXHApyLtWs1lC6r4JLIf1ZiOWhlGQtEzc1nTtXuszUrASPskAMddEQ+cKzkjUeZqUOrmEheKSUocGuu/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mkere\\Desktop\\projects\\DesignPatterns\\Adapter\\Adapter DP\\Adapter DP\\Adapter DP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkere\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

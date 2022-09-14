@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1001</Id>
+  <Name>John Doe</Name>
+  <Basic>3000</Basic>
+  <Incentive>2000</Incentive>
+  <TotalSalary>5000</TotalSalary>
+</Employee>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Composite DP2/1.0.0": {
+        "runtime": {
+          "Composite DP2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Composite DP2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
