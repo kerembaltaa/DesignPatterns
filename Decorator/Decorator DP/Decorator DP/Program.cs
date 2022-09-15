@@ -31,7 +31,7 @@ namespace Decorator_DP
         }
         public void Send()
         {
-            Console.WriteLine("Mail, {0} kişisinden {1} kişine gidiyor.", userFrom, userTo);
+            Console.WriteLine("The mail is sending from {0} to {1}.", userFrom, userTo);
         }
     }
 
@@ -73,7 +73,7 @@ namespace Decorator_DP
         public override void Send()
         {
             base.Send();
-            Console.WriteLine(signature + " olarak imzalandı");
+            Console.WriteLine(signature + " has signed");
         }
     }
 

@@ -41,17 +41,17 @@ namespace Facade_DP3
     }
     public class SiparisIslemleri
     {
-        public int SiparisEkle(DateTime siparisTarihi, Musteri musteri, KargoSirketi kargoSirketi)
+        public string SiparisEkle(DateTime siparisTarihi, Musteri musteri, KargoSirketi kargoSirketi)
         {
             Console.WriteLine("{0} tarihinde {1} isimli müşteri siparişi eklendi. Seçilen kargo şirketi:{2} "
                 , siparisTarihi.ToString(), musteri.Ad, kargoSirketi.Ad);
-            return 1;
+            return "myUniqueId";
         }
     }
 
     public class SiparisDetaylari
     {
-        public void SiparisDetaylariniEkle(int siparisId, List<SepettekiUrun> urunler)
+        public void SiparisDetaylariniEkle(string siparisId, List<SepettekiUrun> urunler)
         {
             Console.WriteLine("{0} numaralı siparişte alınan ürünler:", siparisId);
             Console.WriteLine("...............................");
@@ -84,9 +84,10 @@ namespace Facade_DP3
         {
             musteri = new Musteri { Ad = musteriAdi };
             kargoSirketi = new KargoSirketi { Ad = secilenKargoSirketi };
-            int siparisId = siparisIslemleri.SiparisEkle(DateTime.Now, musteri, kargoSirketi);
+            string siparisId = siparisIslemleri.SiparisEkle(DateTime.Now, musteri, kargoSirketi);
             siparisDetaylari.SiparisDetaylariniEkle(siparisId, urunler);
             urunler.ForEach(u => urunIslemleri.StokGuncelle(u.Id, u.Adet));
+            //urunler.Where(urun => urun.UrunAdi == "x");
             Console.WriteLine();
             Console.WriteLine("İşlem tamamlandı");
 

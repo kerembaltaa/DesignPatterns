@@ -10,7 +10,7 @@ namespace Decorator_DP3
             car.PrintDetail();
 
             //nesnemize airbag özelliği ekleniyor
-            AirbagDecarotor carWithairbag = new AirbagDecarotor(car);
+            AirbagDecorator carWithairbag = new AirbagDecorator(car);
             carWithairbag.PrintDetail();
 
             //nesnemize abs özelliği ekleniyor
@@ -20,14 +20,14 @@ namespace Decorator_DP3
             Console.ReadLine();
         }
     }
-    public interface ICarDecarotor
+    public interface ICarDecorator
     {
         void PrintDetail();
         void AddPrice(decimal addedPrice);
         void AddDescription(string addedDesc);
     }
 
-    public class Car : ICarDecarotor
+    public class Car : ICarDecorator
     {
         public string Model { get; set; }
         public string Brand { get; set; }
@@ -55,10 +55,10 @@ namespace Decorator_DP3
         }
     }
 
-    public class CarDecoratorBase : ICarDecarotor
+    public class CarDecoratorBase : ICarDecorator
     {
-        internal ICarDecarotor Car;
-        public CarDecoratorBase(ICarDecarotor car)
+        internal ICarDecorator Car;
+        public CarDecoratorBase(ICarDecorator car)
         {
             Car = car;
         }
@@ -80,7 +80,7 @@ namespace Decorator_DP3
 
     public class ABSDecorator : CarDecoratorBase
     {
-        public ABSDecorator(ICarDecarotor car)
+        public ABSDecorator(ICarDecorator car)
             : base(car)
         {
         }
@@ -93,9 +93,9 @@ namespace Decorator_DP3
         }
     }
 
-    public class AirbagDecarotor : CarDecoratorBase
+    public class AirbagDecorator : CarDecoratorBase
     {
-        public AirbagDecarotor(ICarDecarotor car)
+        public AirbagDecorator(ICarDecorator car)
             : base(car)
         {
         }

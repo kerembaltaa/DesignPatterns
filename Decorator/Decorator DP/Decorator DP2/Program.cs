@@ -8,14 +8,11 @@ namespace Decorator_DP2
         {
             IComponent component = new Component();
 
-            Console.WriteLine("Basic Component " + component.Operation());
-            Console.WriteLine("Decorator A " + new DecoratorA(component).Operation());
-            Console.WriteLine("Decorator B " + new DecoratorB(component).Operation());
-            Console.WriteLine("Decorator B - A" + new DecoratorB(new DecoratorA(component)).Operation());
+            Console.WriteLine("Basic Component --" + component.Operation());
+            Console.WriteLine("Decorator A --" + new DecoratorA(component).Operation());
+            Console.WriteLine("Decorator B --" + new DecoratorB(component).Operation());
+            Console.WriteLine("Decorator B - A --" + new DecoratorB(new DecoratorA(component)).Operation());
 
-            DecoratorB b = new DecoratorB(new Component());
-
-            Console.WriteLine("b.addedState " + b.AddedBehavior());
 
             Console.ReadKey();
         }
@@ -28,7 +25,7 @@ namespace Decorator_DP2
     {
         public string Operation()
         {
-            return "I am walking ";
+            return "Normal operation. ";
         }
     }
     class DecoratorA : IComponent
@@ -43,7 +40,7 @@ namespace Decorator_DP2
         public string Operation()
         {
             string s = component.Operation();
-            s += " and listening to Classin FM";
+            s += " decorated with A";
 
             return s;
         }
@@ -52,7 +49,6 @@ namespace Decorator_DP2
     class DecoratorB : IComponent
     {
         IComponent component;
-        public string addedState = "past the coffe shop ";
 
         public DecoratorB(IComponent c)
         {
@@ -62,15 +58,11 @@ namespace Decorator_DP2
         public string Operation()
         {
             string s = component.Operation();
-            s += " to School";
+            s += " decorated with B";
 
             return s;
         }
 
-        public string AddedBehavior()
-        {
-            return " and I bought a cappicuno";
-        }
     }
 
 }
