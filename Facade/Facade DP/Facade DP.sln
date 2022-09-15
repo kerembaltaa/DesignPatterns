@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade DP", "Facade DP\Facade DP.csproj", "{AB0F75FB-732F-418D-819B-10D9218EEC6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade DP2", "Facade DP2\Facade DP2.csproj", "{24488F12-B308-4197-9037-9BC0B778052F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade DP3", "Facade DP3\Facade DP3.csproj", "{475EA393-5A74-433B-9376-3DC5AE1DD43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0F75FB-732F-418D-819B-10D9218EEC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0F75FB-732F-418D-819B-10D9218EEC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0F75FB-732F-418D-819B-10D9218EEC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0F75FB-732F-418D-819B-10D9218EEC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24488F12-B308-4197-9037-9BC0B778052F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24488F12-B308-4197-9037-9BC0B778052F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24488F12-B308-4197-9037-9BC0B778052F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24488F12-B308-4197-9037-9BC0B778052F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{475EA393-5A74-433B-9376-3DC5AE1DD43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475EA393-5A74-433B-9376-3DC5AE1DD43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475EA393-5A74-433B-9376-3DC5AE1DD43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475EA393-5A74-433B-9376-3DC5AE1DD43F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1FFC483-1872-4A07-A9B4-197210360A08}
+	EndGlobalSection
+EndGlobal

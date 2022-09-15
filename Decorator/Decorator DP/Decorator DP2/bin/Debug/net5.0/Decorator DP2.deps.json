@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Decorator DP2/1.0.0": {
+        "runtime": {
+          "Decorator DP2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decorator DP2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
