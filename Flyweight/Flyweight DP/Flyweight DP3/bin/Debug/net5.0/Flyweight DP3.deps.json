@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Flyweight DP3/1.0.0": {
+        "runtime": {
+          "Flyweight DP3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flyweight DP3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

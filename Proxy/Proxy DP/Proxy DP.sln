@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy DP", "Proxy DP\Proxy DP.csproj", "{F95D7831-3A87-4092-BFB4-16E6230B34CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy DP2", "Proxy DP2\Proxy DP2.csproj", "{ED0A307C-31BB-46D6-9DA7-34AA2DDBA5A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy3", "Proxy3\Proxy3.csproj", "{1C11857A-3BF4-4210-A1FB-66BF4DB25629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F95D7831-3A87-4092-BFB4-16E6230B34CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95D7831-3A87-4092-BFB4-16E6230B34CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95D7831-3A87-4092-BFB4-16E6230B34CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95D7831-3A87-4092-BFB4-16E6230B34CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0A307C-31BB-46D6-9DA7-34AA2DDBA5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0A307C-31BB-46D6-9DA7-34AA2DDBA5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0A307C-31BB-46D6-9DA7-34AA2DDBA5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0A307C-31BB-46D6-9DA7-34AA2DDBA5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C11857A-3BF4-4210-A1FB-66BF4DB25629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C11857A-3BF4-4210-A1FB-66BF4DB25629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C11857A-3BF4-4210-A1FB-66BF4DB25629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C11857A-3BF4-4210-A1FB-66BF4DB25629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02663402-72FD-4DD6-A927-364B465DC691}
+	EndGlobalSection
+EndGlobal

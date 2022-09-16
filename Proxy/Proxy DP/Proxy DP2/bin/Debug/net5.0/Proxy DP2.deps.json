@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Proxy DP2/1.0.0": {
+        "runtime": {
+          "Proxy DP2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proxy DP2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight DP", "Flyweight DP\Flyweight DP.csproj", "{F5D72D32-A5A6-4771-8274-B557CAA62F08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight DP2", "Flyweight DP3\Flyweight DP2.csproj", "{459713AA-F931-4FD7-94A7-FCC02E9CA95B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D72D32-A5A6-4771-8274-B557CAA62F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D72D32-A5A6-4771-8274-B557CAA62F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D72D32-A5A6-4771-8274-B557CAA62F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D72D32-A5A6-4771-8274-B557CAA62F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459713AA-F931-4FD7-94A7-FCC02E9CA95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459713AA-F931-4FD7-94A7-FCC02E9CA95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459713AA-F931-4FD7-94A7-FCC02E9CA95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459713AA-F931-4FD7-94A7-FCC02E9CA95B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F238E634-3F5F-400D-A8B6-52A149F42094}
+	EndGlobalSection
+EndGlobal
