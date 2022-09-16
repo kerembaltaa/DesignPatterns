@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Proxy3
+namespace Proxy_DP3
 {
     class Program
     {

@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy DP", "Proxy DP\Proxy 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy DP2", "Proxy DP2\Proxy DP2.csproj", "{ED0A307C-31BB-46D6-9DA7-34AA2DDBA5A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy3", "Proxy3\Proxy3.csproj", "{1C11857A-3BF4-4210-A1FB-66BF4DB25629}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy DP3", "Proxy3\Proxy DP3.csproj", "{1C11857A-3BF4-4210-A1FB-66BF4DB25629}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

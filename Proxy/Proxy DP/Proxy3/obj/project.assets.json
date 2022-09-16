@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mkere\\Desktop\\projects\\DesignPatterns\\Proxy\\Proxy DP\\Proxy3\\Proxy3.csproj",
-      "projectName": "Proxy3",
-      "projectPath": "C:\\Users\\mkere\\Desktop\\projects\\DesignPatterns\\Proxy\\Proxy DP\\Proxy3\\Proxy3.csproj",
+      "projectUniqueName": "C:\\Users\\mkere\\Desktop\\projects\\DesignPatterns\\Proxy\\Proxy DP\\Proxy3\\Proxy DP3.csproj",
+      "projectName": "Proxy DP3",
+      "projectPath": "C:\\Users\\mkere\\Desktop\\projects\\DesignPatterns\\Proxy\\Proxy DP\\Proxy3\\Proxy DP3.csproj",
       "packagesPath": "C:\\Users\\mkere\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mkere\\Desktop\\projects\\DesignPatterns\\Proxy\\Proxy DP\\Proxy3\\obj\\",
       "projectStyle": "PackageReference",
