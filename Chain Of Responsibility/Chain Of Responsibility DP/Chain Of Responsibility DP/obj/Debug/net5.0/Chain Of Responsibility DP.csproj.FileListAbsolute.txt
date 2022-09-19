@@ -1,0 +1,16 @@
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\bin\Debug\net5.0\Chain Of Responsibility DP.exe
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\bin\Debug\net5.0\Chain Of Responsibility DP.deps.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\bin\Debug\net5.0\Chain Of Responsibility DP.runtimeconfig.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\bin\Debug\net5.0\Chain Of Responsibility DP.runtimeconfig.dev.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\bin\Debug\net5.0\Chain Of Responsibility DP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\bin\Debug\net5.0\ref\Chain Of Responsibility DP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\bin\Debug\net5.0\Chain Of Responsibility DP.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\obj\Debug\net5.0\Chain Of Responsibility DP.csproj.AssemblyReference.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\obj\Debug\net5.0\Chain Of Responsibility DP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\obj\Debug\net5.0\Chain Of Responsibility DP.AssemblyInfoInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\obj\Debug\net5.0\Chain Of Responsibility DP.AssemblyInfo.cs
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\obj\Debug\net5.0\Chain Of Responsibility DP.csproj.CoreCompileInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\obj\Debug\net5.0\Chain Of Responsibility DP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\obj\Debug\net5.0\ref\Chain Of Responsibility DP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\obj\Debug\net5.0\Chain Of Responsibility DP.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Chain Of Responsibility\Chain Of Responsibility DP\Chain Of Responsibility DP\obj\Debug\net5.0\Chain Of Responsibility DP.genruntimeconfig.cache
