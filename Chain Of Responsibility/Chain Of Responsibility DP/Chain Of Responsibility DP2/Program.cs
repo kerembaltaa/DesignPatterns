@@ -6,7 +6,7 @@ namespace Chain_Of_Responsibility_DP2
     {
         static void Main(string[] args)
         {
-            var withdraw = new Withdraw("a6e193dc-cdbb-4f09-af1a-dea307a9ed15", 480000, "TRY", "TR681223154132432141412");
+            var withdraw = new Withdraw("a6e193dc-cdbb-4f09-af1a-dea307a9ed15", 48000000, "TRY", "TR681223154132432141412");
 
             Calisan sorumlu = new Sorumlu();
             Calisan yonetici = new Yonetici();

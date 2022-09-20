@@ -13,7 +13,7 @@ namespace Command_DP
             kullanici.Hesapla('*', 10);
             kullanici.Hesapla('/', 2);
             kullanici.GeriAl(4);
-            kullanici.IleriAl(3);
+            kullanici.IleriAl(4);
             Console.ReadKey();
         }
     }
