@@ -43,7 +43,7 @@ namespace Iterator_DP
 
         public override string ToString()
         {
-            return String.Format("{0} {1} {2}", ProductId.ToString(), Name, ListPrice.ToString("C2"));
+            return String.Format("{0} {1} {2}", ProductId.ToString(), Name, ListPrice.ToString());
         }
     }
 

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer DP", "Observer DP\Observer DP.csproj", "{1701BD9A-2FC0-4C61-8516-995D331AD916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer DP2", "Observer DP2\Observer DP2.csproj", "{6C252392-6F7E-4F83-A9F9-01A38C368C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1701BD9A-2FC0-4C61-8516-995D331AD916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1701BD9A-2FC0-4C61-8516-995D331AD916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1701BD9A-2FC0-4C61-8516-995D331AD916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1701BD9A-2FC0-4C61-8516-995D331AD916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C252392-6F7E-4F83-A9F9-01A38C368C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C252392-6F7E-4F83-A9F9-01A38C368C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C252392-6F7E-4F83-A9F9-01A38C368C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C252392-6F7E-4F83-A9F9-01A38C368C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2ACC727-455D-4170-9949-FCBDF06E4FD5}
+	EndGlobalSection
+EndGlobal
