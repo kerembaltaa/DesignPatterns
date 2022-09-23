@@ -1,0 +1,16 @@
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\bin\Debug\net5.0\Template Method DP.exe
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\bin\Debug\net5.0\Template Method DP.deps.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\bin\Debug\net5.0\Template Method DP.runtimeconfig.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\bin\Debug\net5.0\Template Method DP.runtimeconfig.dev.json
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\bin\Debug\net5.0\Template Method DP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\bin\Debug\net5.0\ref\Template Method DP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\bin\Debug\net5.0\Template Method DP.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\obj\Debug\net5.0\Template Method DP.csproj.AssemblyReference.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\obj\Debug\net5.0\Template Method DP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\obj\Debug\net5.0\Template Method DP.AssemblyInfoInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\obj\Debug\net5.0\Template Method DP.AssemblyInfo.cs
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\obj\Debug\net5.0\Template Method DP.csproj.CoreCompileInputs.cache
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\obj\Debug\net5.0\Template Method DP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\obj\Debug\net5.0\ref\Template Method DP.dll
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\obj\Debug\net5.0\Template Method DP.pdb
+C:\Users\mkere\Desktop\projects\DesignPatterns\Template Method\Template Method DP\Template Method DP\obj\Debug\net5.0\Template Method DP.genruntimeconfig.cache
