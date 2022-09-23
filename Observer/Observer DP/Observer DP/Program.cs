@@ -15,7 +15,7 @@ namespace Observer_DP
 
             Financier zBank = new Financier { Name = "Z Bank Şirketi" };
 
-            azonDemir.Subscribe(xYatirim); //zBank güncelleme alabilmesi için abone ettik.
+            azonDemir.Subscribe(zBank); //zBank güncelleme alabilmesi için abone ettik.
 
             Console.WriteLine("{0} hissesinin güncel lot degeri {1}", azonDemir.Name, azonDemir.LotValue.ToString("C2"));
 
