@@ -37,11 +37,11 @@ namespace Composite_DP3
 
             foreach (Employee manager in Rahul)
             {
-                Console.WriteLine("\n EmpID={0}, Name={1}", manager.EmpID, manager.Name);
+                Console.WriteLine("\n ---EmpID={0}, Name={1}", manager.EmpID, manager.Name);
 
                 foreach (var employee in manager)
                 {
-                    Console.WriteLine(" \t EmpID={0}, Name={1}", employee.EmpID, employee.Name);
+                    Console.WriteLine(" \t -----EmpID={0}, Name={1}", employee.EmpID, employee.Name);
                 }
             }
             Console.ReadKey();
