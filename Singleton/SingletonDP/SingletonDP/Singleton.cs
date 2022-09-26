@@ -6,39 +6,6 @@ using System.Threading.Tasks;
 
 namespace SingletonDP
 {
-    //public sealed class Singleton
-    //{
-    //    private static int counter = 0;
-    //    private static readonly object Instancelock = new object();
-    //    private Singleton()
-    //    {
-    //        counter++;
-    //        Console.WriteLine("Counter Value " + counter.ToString());
-    //    }
-    //    private static Singleton instance = null;
-
-    //    public static Singleton GetInstance
-    //    {
-    //        get
-    //        {
-    //            if (instance == null)
-    //            {
-    //                lock (Instancelock)
-    //                {
-    //                    if (instance == null)
-    //                    {
-    //                        instance = new Singleton();
-    //                    }
-    //                }
-    //            }
-    //            return instance;
-    //        }
-    //    }
-    //    public void PrintDetails(string message)
-    //    {
-    //        Console.WriteLine(message);
-    //    }
-    //}
     class Singleton
     {
         private static Singleton _example = null;
@@ -46,7 +13,7 @@ namespace SingletonDP
 
         private Singleton()
         {
-           
+
         }
 
         public static Singleton get_example
@@ -70,3 +37,36 @@ namespace SingletonDP
         }
     }
 }
+//public sealed class Singleton
+//{
+//    private static int counter = 0;
+//    private static readonly object Instancelock = new object();
+//    private Singleton()
+//    {
+//        counter++;
+//        Console.WriteLine("Counter Value " + counter.ToString());
+//    }
+//    private static Singleton instance = null;
+
+//    public static Singleton GetInstance
+//    {
+//        get
+//        {
+//            if (instance == null)
+//            {
+//                lock (Instancelock)
+//                {
+//                    if (instance == null)
+//                    {
+//                        instance = new Singleton();
+//                    }
+//                }
+//            }
+//            return instance;
+//        }
+//    }
+//    public void PrintDetails(string message)
+//    {
+//        Console.WriteLine(message);
+//    }
+//}
